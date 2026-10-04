@@ -1,0 +1,8 @@
+Guayaquil,Quito,55
+Guayaquil,Cuenca,40
+Quito,Puyo,25
+Quito,Bogota,90
+Puyo,Tena,15
+Cuenca,Quito,60
+Bogota,Lima,150
+Lima,Guayaquil,120

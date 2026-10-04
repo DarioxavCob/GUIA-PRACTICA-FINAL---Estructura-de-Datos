@@ -1,0 +1,24 @@
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\Estructura de datos - APE.exe
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\Estructura de datos - APE.deps.json
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\Estructura de datos - APE.runtimeconfig.json
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\Estructura de datos - APE.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\Estructura de datos - APE.pdb
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.pdb
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.pdb
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.pdb
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.csproj.AssemblyReference.cache
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.AssemblyInfoInputs.cache
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.AssemblyInfo.cs
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.csproj.CoreCompileInputs.cache
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructu.D374BE6F.Up2Date
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\refint\Estructura de datos - APE.dll
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.pdb
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\Estructura de datos - APE.genruntimeconfig.cache
+C:\Users\dcobo\Documents\UEA-DARIO COBOS\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\DEBERES\PROYECTOS VSCOD\Estructura de datos - APE\obj\Debug\net10.0\ref\Estructura de datos - APE.dll
